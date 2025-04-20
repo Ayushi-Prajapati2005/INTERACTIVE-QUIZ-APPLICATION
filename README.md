@@ -13,6 +13,7 @@ DURATION: 4 WEEKS
 MENTOR: NEELA SANTOSH
 
 
+# discription
 
 🎯 Quiz Web Application
 
@@ -98,3 +99,7 @@ Result display
 This is a fully client-side project — no backend or database is used.
 All quiz content is stored in the JavaScript file, which can be easily updated to add or change questions.
 Ideal for educational mini-projects, personal portfolios, coding practice, or school assignments.
+
+
+# output
+
