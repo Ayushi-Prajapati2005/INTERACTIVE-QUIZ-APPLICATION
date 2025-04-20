@@ -102,10 +102,6 @@ Ideal for educational mini-projects, personal portfolios, coding practice, or sc
 
 
 # output
-![Image](https://github.com/user-attachments/assets/23229c0d-9cd5-41e4-b6a7-fb703c4b716e)
 
-![Image](https://github.com/user-attachments/assets/896f1d63-7d91-43c4-9f64-a5c16c0ff13b)
 
-![Image](https://github.com/user-attachments/assets/dcd46833-0bd7-42ec-9ae9-342f53ea6d7c)
 
-![Image](https://github.com/user-attachments/assets/a8f28e2e-5ddc-4f0c-98d6-a2da4b79cd9e)
