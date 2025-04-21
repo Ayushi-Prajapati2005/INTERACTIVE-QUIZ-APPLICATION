@@ -2,7 +2,7 @@
 
 COMPANY: CODTECH IT SOLUTIONS
 
-NAME: Prajapati Ayush Bhaveshkumar
+NAME: Prajapati Ayushi Bhaveshkumar
 
 INTERN ID: CT04DA46
 
