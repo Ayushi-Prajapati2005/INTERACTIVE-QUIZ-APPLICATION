@@ -1,20 +1,5 @@
 # INTERACTIVE-QUIZ-APPLICATION
 
-COMPANY: CODTECH IT SOLUTIONS
-
-NAME: Prajapati Ayushi Bhaveshkumar
-
-INTERN ID: CT04DA46
-
-DOMAIN:  Frontend Web Development
-
-DURATION: 4 WEEKS
-
-MENTOR: NEELA SANTOSH
-
-
-# discription
-
 🎯 Quiz Web Application
 
 This project is a feature-rich, interactive Quiz Web Application developed using HTML, CSS, and JavaScript. It is designed to provide users with a simple, engaging, and informative platform to test their knowledge through a series of multiple-choice questions. The web app ensures an intuitive user experience by integrating guided instructions, seamless question navigation, instant feedback, and a dynamic result display.
